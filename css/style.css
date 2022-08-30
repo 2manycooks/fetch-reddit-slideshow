@@ -4,6 +4,8 @@ form {
 
 img {
     display: none;
+    height: 400px;
+    margin: auto;
 }
 
 .active {
@@ -15,9 +17,14 @@ img {
     text-align: center;
     justify-content: center;
     margin: auto;
+    margin-bottom: 10px;
 }
 
 #textContainer {
     text-align: center;
     margin: auto;
+}
+
+#image-container {
+    height: 40%;
 }
